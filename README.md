@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavyadhanasekar" alt="bhavyadhanasekar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://todolist-app-c8y5.onrender.com/](https://todolist-app-c8y5.onrender.com/)
+- 🌱 I’m currently learning **Mern stack**
 
-- 📝 I regularly write articles on [https://monikadhanasekar12.wixsite.com/my-site-3](https://monikadhanasekar12.wixsite.com/my-site-3)
+- 👨‍💻 One of my project is available at [https://todolist-app-c8y5.onrender.com/](https://todolist-app-c8y5.onrender.com/)
+
+- 📝 Know about me [https://monikadhanasekar12.wixsite.com/my-site-3](https://monikadhanasekar12.wixsite.com/my-site-3)
 
 - 📫 How to reach me **bhavyayaa@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Bhavyadhanasekar/Bhavya.Resumee.git](https://github.com/Bhavyadhanasekar/Bhavya.Resumee.git)
+- 📄 Know about my coding experiences [https://github.com/Bhavyadhanasekar/Bhavya.Resumee.git](https://github.com/Bhavyadhanasekar/Bhavya.Resumee.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
